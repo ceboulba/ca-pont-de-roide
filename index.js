@@ -9,25 +9,27 @@ const imageName = document.querySelector('.imageName')
 console.log(imageName.innerHTML)
 
 const imgs = [
-  'https://res.cloudinary.com/archipicture/image/upload/v1583261742/ca-valdahon/valdahon-axo-01.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583261711/ca-valdahon/valdahon-axo-02.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583261712/ca-valdahon/valdahon-axo-03.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583256612/ca-valdahon/cafc-Valdhon-02_View01.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583257239/ca-valdahon/cafc-Valdhon-02_View02.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583257643/ca-valdahon/cafc-Valdhon-02_View04.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583256617/ca-valdahon/cafc-Valdhon-02_View05.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583257068/ca-valdahon/cafc-Valdhon-02_View06.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583263143/ca-valdahon/cafc-Valdhon-02_View07.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587762833/ca-pont-de-roide/pont-de-roide-axo-rdc-a.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587762833/ca-pont-de-roide/pont-de-roide-axo-1er-a.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587762834/ca-pont-de-roide/pont-de-roide-axo-1er-b.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587762835/ca-pont-de-roide/pont-de-roide-01.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587762835/ca-pont-de-roide/pont-de-roide-02.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587762833/ca-pont-de-roide/pont-de-roide-03.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587762922/ca-pont-de-roide/pont-de-roide-04.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587762835/ca-pont-de-roide/pont-de-roide-05.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587762835/ca-pont-de-roide/pont-de-roide-06.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587763440/ca-pont-de-roide/pont-de-roide-07.jpg',
 ]
 const imgName= [
   'Axo R.D.C 1',
-  'Axo R.D.C 2',
-  'Axo étage',
+  'Axo étage 1',
+  'Axo étage 2',
   'Espace libre service bancaire',
   'Espace attente / carré',
   'Espace collaborateurs R.D.C',
-  'Attente étage',
+  'Espace collaborateurs R.D.C',
   'Circulation étage',
+  'Attente étage',
   'Espace collaborateurs étage',
 ]
 
