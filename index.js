@@ -19,7 +19,7 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1587991183/ca-pont-de-roide/pont-de-roide-04-hd.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1587991183/ca-pont-de-roide/pont-de-roide-05-hd.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1587993560/ca-pont-de-roide/pont-de-roide-06-hd.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1587763440/ca-pont-de-roide/pont-de-roide-07.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587997179/ca-pont-de-roide/pont-de-roide-07-hd.jpg',
 ]
 const imgName= [
   'R.D.C axo 1',
