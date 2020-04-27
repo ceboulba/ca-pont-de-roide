@@ -16,8 +16,8 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1587979680/ca-pont-de-roide/pont-de-roide-02-hd.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1587983134/ca-pont-de-roide/pont-de-roide-02-hd-color.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1587984085/ca-pont-de-roide/pont-de-roide-03-hd.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1587762922/ca-pont-de-roide/pont-de-roide-04.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1587762835/ca-pont-de-roide/pont-de-roide-05.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587991183/ca-pont-de-roide/pont-de-roide-04-hd.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1587991183/ca-pont-de-roide/pont-de-roide-05-hd.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1587762835/ca-pont-de-roide/pont-de-roide-06.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1587763440/ca-pont-de-roide/pont-de-roide-07.jpg',
 ]
