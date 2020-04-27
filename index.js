@@ -21,15 +21,15 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1587763440/ca-pont-de-roide/pont-de-roide-07.jpg',
 ]
 const imgName= [
-  'Axo R.D.C 1',
-  'Axo étage 1',
-  'Axo étage 2',
+  'R.D.C axo 1',
+  'Étage axo 1',
+  'Étage axo 2',
   'Espace libre service bancaire',
   'Espace attente / carré',
   'Espace collaborateurs R.D.C',
   'Espace collaborateurs R.D.C',
   'Circulation étage',
-  'Attente étage',
+  'Circulation étage',
   'Espace collaborateurs étage',
 ]
 
