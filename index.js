@@ -10,14 +10,14 @@ console.log(imageName.innerHTML)
 
 const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1588000025/ca-pont-de-roide/pont-de-roide-axo-rdc-a-hd.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1588000216/ca-pont-de-roide/pont-de-roide-axo-1er-a-hd.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1588077666/ca-pont-de-roide/pont-de-roide-axo-1er-a-hd.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1588000214/ca-pont-de-roide/pont-de-roide-axo-1er-b-hd.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1587975825/ca-pont-de-roide/pont-de-roide-01-hd.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1587979680/ca-pont-de-roide/pont-de-roide-02-hd.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1587983134/ca-pont-de-roide/pont-de-roide-02-hd-color.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1587984085/ca-pont-de-roide/pont-de-roide-03-hd.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1588076439/ca-pont-de-roide/pont-de-roide-01-hd.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1588076464/ca-pont-de-roide/pont-de-roide-02-hd.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1588076467/ca-pont-de-roide/pont-de-roide-02-hd-color.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1588076488/ca-pont-de-roide/pont-de-roide-03-hd.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1587991183/ca-pont-de-roide/pont-de-roide-04-hd.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1587991183/ca-pont-de-roide/pont-de-roide-05-hd.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1588077346/ca-pont-de-roide/pont-de-roide-05-hd.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1587993560/ca-pont-de-roide/pont-de-roide-06-hd.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1587997179/ca-pont-de-roide/pont-de-roide-07-hd.jpg',
 ]
